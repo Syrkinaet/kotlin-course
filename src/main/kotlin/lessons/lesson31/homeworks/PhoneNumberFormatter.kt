@@ -1,4 +1,4 @@
-package org.example.lessons.lesson31.homework
+package org.example.lessons.lesson31.homeworks
 
 class PhoneNumberFormatter {
 
