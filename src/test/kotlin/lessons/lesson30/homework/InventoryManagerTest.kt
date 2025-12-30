@@ -3,7 +3,6 @@ import org.example.lessons.lesson30.homeworks.InventoryManager
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
-
 class InventoryManagerTest {
 
     private val inventoryManager = InventoryManager(5)

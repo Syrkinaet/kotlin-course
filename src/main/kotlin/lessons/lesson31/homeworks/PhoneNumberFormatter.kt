@@ -16,7 +16,6 @@ class PhoneNumberFormatter {
         }
 
         val phone = "7" + normalized.substring(1)
-
         val code = phone.substring(1, 4)
         val part1 = phone.substring(4, 7)
         val part2 = phone.substring(7, 9)
